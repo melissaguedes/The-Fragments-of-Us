@@ -31,3 +31,9 @@ The app invites users into the story of **Dora**, a girl facing emotional challe
 
 - **AVFoundation / AVFAudio**:  
   Integrates emotional soundscapes and effects to enhance storytelling and atmosphere.
+
+## 📸 Screenshot
+
+![snsns](https://github.com/user-attachments/assets/b457b777-cc87-4245-bca3-01dff696677e)
+
+
