@@ -33,7 +33,9 @@ The app invites users into the story of **Dora**, a girl facing emotional challe
   Integrates emotional soundscapes and effects to enhance storytelling and atmosphere.
 
 ## 📸 Screenshot
-
+![sskssssss](https://github.com/user-attachments/assets/80b7336a-07ed-4f34-ae29-f0e99a1685d7)
+![skssss](https://github.com/user-attachments/assets/6141cf76-d122-482c-a7ee-cc7c784de575)
 ![snsns](https://github.com/user-attachments/assets/b457b777-cc87-4245-bca3-01dff696677e)
+
 
 
